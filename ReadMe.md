@@ -1,6 +1,8 @@
 # 🌌 Lyxia Studio
-
-> **Create Beyond Reality**
+<p align="center">
+  <img src="lyxia (2).png" width="100%" alt="sxmimhd portfolio">
+</p>
+> **Beyond Games. Beyond Reality**
 
 Lyxia Studio is an independent creative studio launched in **2026**, focused on building futuristic games, immersive digital experiences, and innovative technology projects.
 
